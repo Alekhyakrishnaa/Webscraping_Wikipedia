@@ -20,7 +20,7 @@ HOW IT WORKS:
  4. Exports the final data set to CSV file.
 
 DEPENDENCIES:
-Python 3.x
-BeautifulSoup4
-Requests
-Pandas
+1. Python 3.x
+2. BeautifulSoup4
+3. Requests
+4. Pandas
